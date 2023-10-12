@@ -1,1 +1,12 @@
-# pbo-posttest-2
+LAPORAN PRAKTIKUM
+
+PEMROGRAMAN BERORIENTASI OBJEK
+
+“TOKO BUAH”
+
+Disusun Oleh:
+
+Afrila Zahra Prasetyo
+
+2209116079
+
